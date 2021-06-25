@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Hansi Gayathma
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HansiGaya99&color=brightyello" alt="HansiGaya99" /> </p>
+
 <!--
 **HansiGaya99/HansiGaya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
