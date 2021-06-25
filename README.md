@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/HansiGayathma)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/hansi-gayathma-a200b31a6/)
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/hansigayathma/)<br>
-[![Gmail Badge](https://img.shields.io/badge/-hansig99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansig99@gmail.com)](mailto:hansigaya99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-hansigaya99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansigaya99@gmail.com)](mailto:hansigaya99@gmail.com)
 <br />
 
 
