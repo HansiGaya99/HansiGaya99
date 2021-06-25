@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 .  :computer: I’m currently learning <b>Web Applications Development</b> , <b>Mobile Applications Development</b> & <b>Data Science</b>.<br>
 .  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b>.
 
-
+<br>
 ![HansiGaya99](https://github-readme-stats.vercel.app/api?username=HansiGaya99&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![HansiGaya99](https://github-readme-stats.vercel.app/api/top-langs/?username=HansiGaya99&layout=compact&langs_count=6&theme=algolia)
