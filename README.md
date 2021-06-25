@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
+### Connect with me:
+
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/HansiGayathma)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/hansi-gayathma-a200b31a6/)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/hansigayathma/)<br>
+[![Gmail Badge](https://img.shields.io/badge/-hansig99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansig99@gmail.com)](mailto:hansigaya99@gmail.com)
+<br />
+
 
 
 
