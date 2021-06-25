@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ![Hansi's Github stats](https://github-readme-stats.vercel.app/api?username=HansiGaya99&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HansiGaya99&layout=compact&langs_count=8&theme=light)
+
